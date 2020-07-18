@@ -12,7 +12,7 @@
   "dependencies": {
     "puppeteer-core": "2.0.0",
     "chrome-paths": "1.0.1",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "pkg": "4.4.0"
   },
   "devDependencies": {
